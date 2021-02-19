@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+#screen {
+  width: 770px;
+  height: 500px;
+  border: 1px solid black;
+}
